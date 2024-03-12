@@ -88,7 +88,7 @@ Signing this open letter only means that:
 
  * **You do not want to see the NixOS community become vehicle for advertising the Military Industrial Complex.**
 
-Whether or members of the community, the community, the foundation, conferences, or really anything, takes no-strings-attached donations is another topic entirely.
+Whether members of the community, the community, the foundation, conferences, or really anything, takes no-strings-attached donations is another topic entirely.
 
 
 ### Signing
